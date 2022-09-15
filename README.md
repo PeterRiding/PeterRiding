@@ -1,7 +1,19 @@
 ### Howdy Partner! I'm Petey, a passionate pentester from Seattle. 
 - I'm compTIA Sec+ certified and currently studying for the OSCP/CEH/BSCP in 2022.
 - I'm always diving on THM/HTB/Mutillidae. 
-- I'm always looking to collaborate with other Red-Teamers. 
+- I'm always looking to collaborate with other Red-Teamers.
+
+### I'm currently focusing on:mag_right::
+- :syringe:SQLi: Oracle, MySQL, Microsoft, MariaDB
+- XSS: Html, Javascript, Dom, JQuery
+- :surfer:CSRF Cross-Site Request Forgery
+- :computer_mouse:Clickjacking
+- DOM-based Vulnerabilities
+- CORS Cross-Origin Resource Sharing
+- XML XXE External Entity Injection
+- :surfer:SSRF Server-side Request Forgery
+- HTTP Request Smuggling
+- :syringe:OSCi OS Command Injection
 
 <p align="left">
 </p>
