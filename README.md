@@ -1,4 +1,4 @@
-### Howdy! I'm Petey, a passionate pentester from Seattle. 
+<h4 align="center"> Howdy! I'm Petey, a passionate pentester from Seattle.:</h4>
 - I'm compTIA Sec+ certified and currently studying for the OSCP/BSCP in 2023.
 - I'm always diving on THM/HTB/Mutillidae. 
 - I'm always looking to collaborate with other Red-Teamers.
@@ -44,7 +44,7 @@
 <img src="https://devicons.railway.app/i/firefox.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> </a> </p>
 
-<h3 align="center">I'm currently focused on:mag_right::</h3>
+<h4 align="center">I'm currently focused on:mag_right::</h4>
 :syringe:SQLi: Oracle, MySQL, Microsoft, MariaDB
 - XSS: Html, Javascript, Dom, JQuery
 - :surfer:CSRF Cross-Site Request Forgery
@@ -68,6 +68,8 @@
 - :old_key:OAuth Authentication
 - :arrow_heading_up:File Upload Vulnerabilities
 - :coin:JWT Json Web Tokens
+<h4 align="center">My passions are:heart::kiss::</h4>
+Pentesting/Auditing - Red-Team Operations - Cryptography - Hashing/Encryption - TAO Tailored Access Operation - Locksport - Information Security - Hardware Modification/implants - 802.11/Bluetooth/Infrared -RFID - NFC - Radio - ANT Technology
 
 <!---
 PeterRiding/PeterRiding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
