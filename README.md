@@ -3,9 +3,6 @@
 - I'm always diving on THM/HTB/Mutillidae. 
 - I'm always looking to collaborate with other Red-Teamers. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterRiding)](https://github.com/PeterRiding/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterRiding)](https://github.com/PeterRiding/github-readme-stats)
-
 <p align="left">
 </p>
 
