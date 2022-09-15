@@ -69,7 +69,7 @@
 - :arrow_heading_up:File Upload Vulnerabilities
 - :coin:JWT Json Web Tokens
 <h4 align="center">My passions are:heart::kiss::</h4>
-Pentesting/Auditing - Red-Team Operations - Cryptography - Hashing/Encryption - TAO Tailored Access Operation - Locksport - Information Security - Hardware Modification/implants - 802.11/Bluetooth/Infrared -RFID - NFC - Radio - ANT Technology - OWASP - Kill Chain Frameworks
+:clipboard:Pentesting/Auditing - :red_circle:Red-Team Operations - :key:Cryptography - :lock:Hashing/Encryption - :door:TAO Tailored Access Operation - :safety_pin:Locksport - :shield:Information Security - :hammer_and_wrench:Hardware Modification/implants - :loud_sound:802.11/Bluetooth/Infrared -RFID - NFC - :radio:Radio - ANT Technology - OWASP - Kill Chain Frameworks
 
 <!---
 PeterRiding/PeterRiding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
