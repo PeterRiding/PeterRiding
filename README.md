@@ -1,4 +1,4 @@
-### Howdy Partner! I'm Petey, a passionate pentester from Seattle. 
+### Howdy! I'm Petey, a passionate pentester from Seattle. 
 - I'm compTIA Sec+ certified and currently studying for the OSCP/CEH/BSCP in 2023.
 - I'm always diving on THM/HTB/Mutillidae. 
 - I'm always looking to collaborate with other Red-Teamers.
