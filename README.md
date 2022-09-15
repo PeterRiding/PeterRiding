@@ -44,6 +44,8 @@
 <img src="https://devicons.railway.app/i/firefox.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> </a> </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeterRiding"/>
+
 <h3 align="center">I'm currently focused on:mag_right::</h3>
 :syringe:SQLi: Oracle, MySQL, Microsoft, MariaDB
 - XSS: Html, Javascript, Dom, JQuery
