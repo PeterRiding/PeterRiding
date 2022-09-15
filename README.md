@@ -3,17 +3,7 @@
 - I'm always diving on THM/HTB/Mutillidae. 
 - I'm always looking to collaborate with other Red-Teamers.
 
-### I'm currently focusing on:mag_right::
-- :syringe:SQLi: Oracle, MySQL, Microsoft, MariaDB
-- XSS: Html, Javascript, Dom, JQuery
-- :surfer:CSRF Cross-Site Request Forgery
-- :computer_mouse:Clickjacking
-- DOM-based Vulnerabilities
-- CORS Cross-Origin Resource Sharing
-- XML XXE External Entity Injection
-- :surfer:SSRF Server-side Request Forgery
-- HTTP Request Smuggling
-- :syringe:OSCi OS Command Injection
+
 
 <p align="left">
 </p>
@@ -54,7 +44,30 @@
 <img src="https://devicons.railway.app/i/firefox.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> </a> </p>
 
-
+### I'm currently focusing on:mag_right::
+- :syringe:SQLi: Oracle, MySQL, Microsoft, MariaDB
+- XSS: Html, Javascript, Dom, JQuery
+- :surfer:CSRF Cross-Site Request Forgery
+- :computer_mouse:Clickjacking
+- DOM-based Vulnerabilities
+- CORS Cross-Origin Resource Sharing
+- XML XXE External Entity Injection
+- :surfer:SSRF Server-side Request Forgery
+- :money_with_wings:HTTP Request Smuggling
+- :syringe:OSCi OS Command Injection
+- :syringe:SSTi Server-side Template Injection
+- :arrows_clockwise:Directory Traversal
+- :closed_lock_with_key:Access-Control Vulnerabilities
+- :unlock:Authentication
+- Websockets
+- :skull_and_crossbones:Web Cache Poisoning
+- Insecure De-serialization
+- :scroll:Information Disclosure
+- :briefcase:Business Logic Vulnerabilities
+- HTTP Host Header Attacks
+- :old_key:OAuth Authentication
+- :arrow_heading_up:File Upload Vulnerabilities
+- :coin:JWT Json Web Tokens
 
 <!---
 PeterRiding/PeterRiding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
