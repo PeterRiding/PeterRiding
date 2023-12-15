@@ -50,6 +50,7 @@
 Scanning / Enumeration
 
 Bruteforcing / Wordlists
+Cracking
 
 
 <h4 align="center">My passions are:</h4>
