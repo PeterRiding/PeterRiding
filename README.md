@@ -46,7 +46,7 @@
 
 <h4 align="center">I'm currently focused on:</h4>
 
-<h4 align="center">My passions are:heart::kiss::</h4>
+<h4 align="center">My passions are:heart: :kiss::</h4>
 :clipboard:Pentesting/Auditing - :red_circle:Red-Team Operations - :key:Cryptography - :lock:Hashing/Encryption - :door:TAO Tailored Access Operations - :safety_pin:Locksport - :shield:Information Security - :hammer_and_wrench:Hardware Modification/implants - :loud_sound:802.11/Bluetooth/Infrared/RFID/NFC - :radio:Radio - :ant:ANT Technology - :bee:OWASP - :anger:Kill Chain Frameworks - :art:Design/Identity/Branding - :shell:Shell Scripting - :books:Security Research
 
 <h4 align="center">📝 Latest Blog Posts:</h4>
