@@ -46,7 +46,9 @@
 
 <a href="http://www.github.com/wint3rmuted"><img src="https://github-readme-stats.vercel.app/api?username=wint3rmuted&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wint3rmuted's GitHub stats" /></a>
                   
-<h4 align="center">I'm currently focused on:</h4>
+<h4 align="center">I'm currently focused on Offensive Subsets:</h4>
+Scanning
+Bruteforcing
 
 <h4 align="center">My passions are:</h4>
 :clipboard:Pentesting/Auditing - :red_circle:Red-Team Operations - :key:Cryptography - :lock:Hashing/Encryption - :door:TAO Tailored Access Operations - :safety_pin:Locksport - :shield:Information Security - :hammer_and_wrench:Hardware Modification/implants - :loud_sound:802.11/Bluetooth/Infrared/RFID/NFC - :radio:Radio - :ant:ANT Technology - :bee:OWASP - :anger:Kill Chain Frameworks - :art:Design/Identity/Branding - :shell:Shell Scripting - :books:Security Research
