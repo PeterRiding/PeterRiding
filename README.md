@@ -48,17 +48,29 @@
                   
 <h4 align="center">I'm currently focused on Offensive Skills:</h4>
 Scanning / Enumeration
+
 Bruteforcing / Wordlists
+
 Cracking
+
 Password Spraying / Password Attacks
+
 Finding Credentials
+
 CrackMapExec
+
 File Transfer
+
 Bash / Python / PHP / Perl / Ruby / C
+
 Privilege Escalation
+
 Pivoting / Port-Forwarding / Tunneling
+
 AD Attacks
+
 Lateral Movement
+
 Packet Inspection
 
 Exploit Crafting & Compilation
