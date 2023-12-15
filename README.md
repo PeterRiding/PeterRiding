@@ -50,10 +50,10 @@
 Scanning / Enumeration
 
 Bruteforcing / Wordlists
-
 Cracking
 
 Pass the Hash
+
 Password Spraying / Password Attacks
 Finding Credentials
 CrackMapExec
