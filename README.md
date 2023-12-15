@@ -50,6 +50,7 @@
 Scanning / Enumeration
 
 Bruteforcing / Wordlists
+
 Cracking
 
 
