@@ -1,6 +1,6 @@
 #### _Howdy!_ Welcome to my Github.
-- Sec+ certified and studying for the OSCP.
-- Always diving on ProvingGrounds/THM/HTB/Mutillidae. 
+- Sec+ certified and OffSec student studying for the OSCP.
+- Always diving on ProvingGrounds/THM/HTB/Mutillidae/vulnhub 
 - Always looking to collaborate with Red-Teamers on CTF events.
 
 
@@ -75,6 +75,6 @@
 <h4 align="center">https://medium.com/@wintersploit</h4>
 
 <!---
-PeterRiding/PeterRiding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
