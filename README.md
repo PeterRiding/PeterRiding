@@ -48,6 +48,7 @@
                   
 <h4 align="center">I'm currently focused on Offensive Skills:</h4>
 Scanning / Enumeration
+
 Bruteforcing / Wordlists
 Cracking
 Pass the Hash
