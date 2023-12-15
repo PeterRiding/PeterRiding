@@ -44,30 +44,8 @@
 <img src="https://devicons.railway.app/i/firefox.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> </a> </p>
 
-<h4 align="center">I'm currently focused on:mag_right::</h4>
-:syringe:SQLi: Oracle, MySQL, Microsoft, MariaDB
-- XSS: Html, Javascript, Dom, JQuery
-- :surfer:CSRF Cross-Site Request Forgery
-- :computer_mouse:Clickjacking
-- DOM-based Vulnerabilities
-- CORS Cross-Origin Resource Sharing
-- XML XXE External Entity Injection
-- :surfer:SSRF Server-side Request Forgery
-- :money_with_wings:HTTP Request Smuggling
-- :syringe:OSCi OS Command Injection
-- :syringe:SSTi Server-side Template Injection
-- :arrows_clockwise:Directory Traversal
-- :closed_lock_with_key:Access-Control Vulnerabilities
-- :unlock:Authentication
-- :hole:Websockets
-- :skull_and_crossbones:Web Cache Poisoning
-- Insecure De-serialization
-- :scroll:Information Disclosure
-- :briefcase:Business Logic Vulnerabilities
-- HTTP Host Header Attacks
-- :old_key:OAuth Authentication
-- :arrow_heading_up:File Upload Vulnerabilities
-- :coin:JWT Json Web Tokens
+<h4 align="center">I'm currently focused on:</h4>
+
 <h4 align="center">My passions are:heart::kiss::</h4>
 :clipboard:Pentesting/Auditing - :red_circle:Red-Team Operations - :key:Cryptography - :lock:Hashing/Encryption - :door:TAO Tailored Access Operations - :safety_pin:Locksport - :shield:Information Security - :hammer_and_wrench:Hardware Modification/implants - :loud_sound:802.11/Bluetooth/Infrared/RFID/NFC - :radio:Radio - :ant:ANT Technology - :bee:OWASP - :anger:Kill Chain Frameworks - :art:Design/Identity/Branding - :shell:Shell Scripting - :books:Security Research
 
