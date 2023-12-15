@@ -51,23 +51,6 @@ Scanning / Enumeration
 
 Bruteforcing / Wordlists
 
-Cracking
-
-Pass the Hash
-
-Password Spraying / Password Attacks
-Finding Credentials
-CrackMapExec
-File Transfer
-Bash / Python / PHP / Perl / Ruby / C
-Privilege Escalation
-Pivoting / Port-Forwarding / Tunneling
-AD Attacks
-Lateral Movement
-Packet Inspection
-Exploit Crafting & Compilation
-
-
 
 <h4 align="center">My passions are:</h4>
 :clipboard:Pentesting/Auditing - :red_circle:Red-Team Operations - :key:Cryptography - :lock:Hashing/Encryption - :door:TAO Tailored Access Operations - :safety_pin:Locksport - :shield:Information Security - :hammer_and_wrench:Hardware Modification/implants - :loud_sound:802.11/Bluetooth/Infrared/RFID/NFC - :radio:Radio - :ant:ANT Technology - :bee:OWASP - :anger:Kill Chain Frameworks - :art:Design/Identity/Branding - :shell:Shell Scripting - :books:Security Research
