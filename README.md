@@ -42,9 +42,7 @@
 <img src="https://devicons.railway.app/i/firefox.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/> </a> </p>
 
- ### Badges
-
-<b>My GitHub Stats</b>
+ <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/wint3rmuted"><img src="https://github-readme-stats.vercel.app/api?username=wint3rmuted&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wint3rmuted's GitHub stats" /></a>
                   
