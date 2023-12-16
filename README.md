@@ -1,7 +1,7 @@
 #### _Howdy!_ Welcome to my Github.
 - Sec+ certified and OffSec student studying for the OSCP.
 - Always diving on ProvingGrounds/THM/HTB/Mutillidae/vulnhub. 
-- Happy to collaborate with Red-Teamers on CTF events.
+- Looking to collaborate with Red-Teamers on CTF events.
 
 <p align="left">
 </p>
