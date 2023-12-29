@@ -1,5 +1,5 @@
 #### _Howdy!_ Welcome to my Github.
-- Sec+ certified and OffSec student studying for the OSCP.
+- Sec+ certified and OffSec student studying for the OSCP and OSWP.
 - Always diving on ProvingGrounds/THM/HTB/Mutillidae/vulnhub. 
 - Looking to collaborate with Red-Teamers on CTF events.
 
@@ -48,36 +48,23 @@
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/wint3rmute.png" alt="TryHackMe">
                   
-<h4 align="center">I'm currently focused on Offensive Skills:</h4>
-
+## I'm currently focused on Offensive Skills 
+```
 Scanning / Enumeration
-
 Bruteforcing / Wordlists
-
-Cracking
-
+Hash Cracking
 Password Spraying / Password Attacks
-
 Finding Credentials
-
-CrackMapExec
-
-File Transfer
-
+NetExex (CrackMapExec)
+Tool Transfer / Data Exfiltration
 Bash / Python / PHP / Perl / Ruby / C
-
-Privilege Escalation
-
+Privilege Escalation / Lateral Movement
 Pivoting / Port-Forwarding / Tunneling
-
 AD Attacks
-
-Lateral Movement
-
+OWASP / Web Application
 Packet Inspection
-
 Exploit Crafting & Compilation
-
+```
 
 <h4 align="center">My passions are:</h4>
 :clipboard:Pentesting/Auditing - :red_circle:Red-Team Operations - :key:Cryptography - :lock:Hashing/Encryption - :door:TAO Tailored Access Operations - :safety_pin:Locksport - :shield:Information Security - :hammer_and_wrench:Hardware Modification/implants - :loud_sound:802.11/Bluetooth/Infrared/RFID/NFC - :radio:Radio - :ant:ANT Technology - :bee:OWASP - :anger:Kill Chain Frameworks - :art:Design/Identity/Branding - :shell:Shell Scripting - :books:Security Research
