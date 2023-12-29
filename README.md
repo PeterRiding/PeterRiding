@@ -48,7 +48,7 @@
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/wint3rmute.png" alt="TryHackMe">
                   
-## I'm currently focused on Offensive Skills 
+## I'm currently focused on Offensive Skills for the OSCP and OSWP: 
 ```
 Scanning / Enumeration
 Bruteforcing / Wordlists
@@ -64,7 +64,8 @@ AD Attacks
 OWASP / Web Application
 Packet Inspection
 Exploit Crafting & Compilation
-```
+802.11 / Bluetooth / Infrared /RFID / NFC
+``` 
 
 <h4 align="center">My passions are:</h4>
 :clipboard:Pentesting/Auditing - :red_circle:Red-Team Operations - :key:Cryptography - :lock:Hashing/Encryption - :door:TAO Tailored Access Operations - :safety_pin:Locksport - :shield:Information Security - :hammer_and_wrench:Hardware Modification/implants - :loud_sound:802.11/Bluetooth/Infrared/RFID/NFC - :radio:Radio - :ant:ANT Technology - :bee:OWASP - :anger:Kill Chain Frameworks - :art:Design/Identity/Branding - :shell:Shell Scripting - :books:Security Research
